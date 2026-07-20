@@ -231,7 +231,7 @@ Output
 
 ```
 Prediction:
-Real News
+Genuine News
 ```
 
 or
